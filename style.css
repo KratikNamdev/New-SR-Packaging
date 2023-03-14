@@ -104,7 +104,7 @@ nav ul.active {
     background-color: #553939;
     color: #EAC7C7;
     position: fixed;
-    /* left: -100vw; */
+    left: -100vw;
     top: 73.6px;
     width: 100vw;
     height: calc(100vh - 73.6px);
@@ -143,6 +143,7 @@ nav ul.active {
   margin-top: 13px;
   }
   .ph{
+    display: none;
     font-size: 9px;
     margin-top: -10px;
   }
