@@ -135,9 +135,16 @@ nav ul.active {
     align-items: center;
     font-size: 10px;
     text-align: center;
+    text-decoration: none;
     /* align-items: center; */
     color: #EAC7C7;
     /* margin-bottom: 80px; */
+  }
+  .add-nav a i{
+    
+    color: #EAC7C7;
+text-decoration: none;
+
   }
   .ad{
   margin-top: 13px;
