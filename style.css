@@ -7,6 +7,9 @@
   height: 120px;
   margin-top: -25px;
 }
+.indiamart{
+    height: 18px;
+}
 header {
   height: 100px;
   /* position: fixed; */
@@ -126,6 +129,7 @@ nav ul.active {
     padding: 2rem 3rem;
     
   }
+  
   .add-nav{
     height: 30px;
     background-color: #553939;
